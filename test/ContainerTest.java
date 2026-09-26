@@ -146,7 +146,7 @@ public class ContainerTest {
             })
     );
 
-    public static void main(String[] args) {
+    public static void main() {
         int failed = 0;
         for (TestCase test : TESTS) {
             try {
